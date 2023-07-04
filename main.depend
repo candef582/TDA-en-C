@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1670019261 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\cine\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cine.h"
+	"sala.h"
+
+1670017322 c:\users\usuario\documents\apps\code blocks\code blocks\tda\cine\main\cine.h
+
+1670019287 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\cine\main\cine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cine.h"
+	"sala.h"
+
+1670020641 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\cine\main\sala.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sala.h"
+
+1670020205 c:\users\usuario\documents\apps\code blocks\code blocks\tda\cine\main\sala.h
+
